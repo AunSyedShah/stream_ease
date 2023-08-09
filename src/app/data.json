@@ -1,0 +1,27 @@
+{
+    "streamingProviders": [
+      {
+        "id": 1,
+        "name": "Netflix",
+        "logo": "https://example.com/netflix-logo.png",
+        "subscriptionUrl": "https://www.netflix.com/subscribe"
+      }
+    ],
+    "subscriptions": [
+      {
+        "id": 1,
+        "providerId": 1,
+        "plan": "Standard",
+        "cost": 12.99,
+        "renewalDate": "15/9/2023"
+      },
+      {
+        "id": 1,
+        "providerId": 1,
+        "plan": "Premium",
+        "cost": 12.99,
+        "renewalDate": "20/9/2023"
+      }
+    ]
+  }
+  
